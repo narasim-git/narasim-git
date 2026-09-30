@@ -8,15 +8,15 @@
 
 **Small ideas. Useful apps. Built for you.**
 
-I build Android apps with **Kotlin** and **Jetpack Compose** — from productivity and media tools to apps for everyday moments.
+I’m Narasim, an independent Android developer. I’ve built **14 Android apps** with **Kotlin** and **Jetpack Compose** — from productivity and media tools to apps for everyday moments.
 
 [Explore my website](https://narasim.web.app/) · [Google Play](https://play.google.com/store/apps/dev?id=8134999316222738333) · [Watch app demos](https://www.youtube.com/@narasim_developer)
 
 </div>
 
-## My Android apps
+## 14 Android projects I’ve built
 
-Explore the full collection on [narasim.web.app](https://narasim.web.app/#apps). Each app below links directly to its Google Play page; downloads become available when the app is released.
+These are apps I designed and developed. Explore each project’s features, original app icon and Google Play link below, or browse the complete portfolio on [narasim.web.app](https://narasim.web.app/#apps). Downloads become available when an app is released.
 
 | App | What it does | Google Play |
 |:---|:---|:---|
