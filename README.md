@@ -1,3 +1,16 @@
+## Now on Google Play
+
+Four production apps are ready to explore:
+
+- **FreeBook – Handwriting**: [Google Play](https://play.google.com/store/apps/details?id=com.nk.freebook) · [Demo](https://narasim.web.app/reels/FreeBook_Instagram_Reel.mp4)
+- **Love Lock**: [Google Play](https://play.google.com/store/apps/details?id=com.nk.lovelock) · [Demo](https://narasim.web.app/reels/LoveLock_Instagram_Reel.mp4)
+- **TasKaro**: Tasks, reminders, expenses and salary tracking. [Google Play](https://play.google.com/store/apps/details?id=com.nk.taskaro)
+- **TurboTorrent**: [Google Play](https://play.google.com/store/apps/details?id=com.turbotorrent.app) · [Demo](https://narasim.web.app/reels/TurboTorrent_Instagram_Reel.mp4)
+
+[Watch the production app reels](https://narasim.web.app/#production-launches).
+
+---
+
 <div align="center">
 
 <a href="https://narasim.web.app/">
