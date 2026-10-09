@@ -1,21 +1,24 @@
 ## Now on Google Play
 
-Four production apps are ready to explore:
+Video Player Pro is now available on Google Play. Watch the app reels below, then install directly from Google Play.
 
-- **FreeBook – Handwriting**: [Google Play](https://play.google.com/store/apps/details?id=com.nk.freebook) · [Demo](https://narasim.web.app/reels/FreeBook_Instagram_Reel.mp4)
-- **Love Lock**: [Google Play](https://play.google.com/store/apps/details?id=com.nk.lovelock) · [Demo](https://narasim.web.app/reels/LoveLock_Instagram_Reel.mp4)
-- **TasKaro**: Tasks, reminders, expenses and salary tracking. [Google Play](https://play.google.com/store/apps/details?id=com.nk.taskaro)
-- **TurboTorrent**: [Google Play](https://play.google.com/store/apps/details?id=com.turbotorrent.app) · [Demo](https://narasim.web.app/reels/TurboTorrent_Instagram_Reel.mp4)
+| App | Watch on YouTube | Install |
+|:---|:---:|:---|
+| **Video Player Pro** | [![Video Player Pro reel](https://i.ytimg.com/vi/Dhiau29vHHk/hqdefault.jpg)](https://youtube.com/shorts/Dhiau29vHHk) | [Google Play](https://play.google.com/store/apps/details?id=com.nk.videoplayerpro) |
+| **FreeBook – Handwriting** | [![FreeBook reel](https://i.ytimg.com/vi/ALn3AH5vp7o/hqdefault.jpg)](https://youtube.com/shorts/ALn3AH5vp7o) | [Google Play](https://play.google.com/store/apps/details?id=com.nk.freebook) |
+| **Love Lock** | [![Love Lock reel](https://i.ytimg.com/vi/3Sncgn5_tac/hqdefault.jpg)](https://youtube.com/shorts/3Sncgn5_tac) | [Google Play](https://play.google.com/store/apps/details?id=com.nk.lovelock) |
+| **TurboTorrent** | [![TurboTorrent reel](https://i.ytimg.com/vi/_Ii6gvir1tE/hqdefault.jpg)](https://youtube.com/shorts/_Ii6gvir1tE) | [Google Play](https://play.google.com/store/apps/details?id=com.turbotorrent.app) |
 
-[Watch the production app reels](https://narasim.web.app/#production-launches).
+**TasKaro:** Tasks, reminders, expenses and salary tracking. [Install on Google Play](https://play.google.com/store/apps/details?id=com.nk.taskaro).
+
+[Explore all my apps](https://narasim.web.app/).
 
 ---
 
+
 <div align="center">
 
-<a href="https://narasim.web.app/">
-  <img src="https://narasim.web.app/assets/banner.png" alt="Narasim — Android Developer" width="100%">
-</a>
+<a href="https://narasim.web.app/"><img src="https://narasim.web.app/assets/banner.png" alt="Narasim — Android Developer" width="100%"></a>
 
 # Narasim | Android Developer
 
