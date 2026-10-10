@@ -1,10 +1,10 @@
 ## Now on Google Play
 
-Video Player Pro is now available on Google Play. Watch the app reels below, then install directly from Google Play.
+NK Player - HD Video Player is now available on Google Play. Watch the app reels below, then install directly from Google Play.
 
 | App | Watch on YouTube | Install |
 |:---|:---:|:---|
-| **Video Player Pro** | [![Video Player Pro reel](https://i.ytimg.com/vi/Dhiau29vHHk/hqdefault.jpg)](https://youtube.com/shorts/Dhiau29vHHk) | [Google Play](https://play.google.com/store/apps/details?id=com.nk.videoplayerpro) |
+| **NK Player - HD Video Player** | [![NK Player - HD Video Player reel](https://i.ytimg.com/vi/QJ0hQC0go-M/hqdefault.jpg)](https://youtube.com/shorts/QJ0hQC0go-M) | [Google Play](https://play.google.com/store/apps/details?id=com.nk.videoplayerpro) |
 | **FreeBook – Handwriting** | [![FreeBook reel](https://i.ytimg.com/vi/ALn3AH5vp7o/hqdefault.jpg)](https://youtube.com/shorts/ALn3AH5vp7o) | [Google Play](https://play.google.com/store/apps/details?id=com.nk.freebook) |
 | **Love Lock** | [![Love Lock reel](https://i.ytimg.com/vi/3Sncgn5_tac/hqdefault.jpg)](https://youtube.com/shorts/3Sncgn5_tac) | [Google Play](https://play.google.com/store/apps/details?id=com.nk.lovelock) |
 | **TurboTorrent** | [![TurboTorrent reel](https://i.ytimg.com/vi/_Ii6gvir1tE/hqdefault.jpg)](https://youtube.com/shorts/_Ii6gvir1tE) | [Google Play](https://play.google.com/store/apps/details?id=com.turbotorrent.app) |
@@ -48,7 +48,7 @@ These are apps I designed and developed. Explore each project’s features, orig
 | <img src="https://narasim.web.app/assets/shake-to-switch.png" width="40" alt=""> **Shake To Switch** | Configured shake actions, including moving to the next reel or short. | [View app](https://play.google.com/store/apps/details?id=com.nk.shaketoswitch) |
 | <img src="https://narasim.web.app/assets/snapbook.png" width="40" alt=""> **SnapBook – Photo Book Maker** | Photo and scanned-page books, PDFs, notes and reading tools. | [View app](https://play.google.com/store/apps/details?id=com.nk.makeyourbook) |
 | <img src="https://narasim.web.app/assets/turbotorrent.png" width="40" alt=""> **TurboTorrent – Torrent Client** | Torrent downloads from magnet links or torrent files. | [View app](https://play.google.com/store/apps/details?id=com.turbotorrent.app) |
-| <img src="https://narasim.web.app/assets/video-player-pro-current.png" width="40" alt=""> **Video Player Pro** | Video playback with subtitle options and background controls. | [View app](https://play.google.com/store/apps/details?id=com.nk.videoplayerpro) |
+| <img src="https://narasim.web.app/assets/video-player-pro-current.png" width="40" alt=""> **NK Player - HD Video Player** | Video playback with subtitle options and background controls. | [View app](https://play.google.com/store/apps/details?id=com.nk.videoplayerpro) |
 | <img src="https://narasim.web.app/assets/volume-button-music-control.png" width="40" alt=""> **Volume Button Music Control** | Next, previous and play/pause music controls using volume buttons. | [View app](https://play.google.com/store/apps/details?id=com.nk.volumebuttonmusiccontrol) |
 
 ## How I build
