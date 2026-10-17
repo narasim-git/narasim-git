@@ -1,21 +1,3 @@
-## Now on Google Play
-
-NK Player - HD Video Player is now available on Google Play. Watch the app reels below, then install directly from Google Play.
-
-| App | Watch on YouTube | Install |
-|:---|:---:|:---|
-| **NK Player - HD Video Player** | [![NK Player - HD Video Player reel](https://i.ytimg.com/vi/QJ0hQC0go-M/hqdefault.jpg)](https://youtube.com/shorts/QJ0hQC0go-M) | [Google Play](https://play.google.com/store/apps/details?id=com.nk.videoplayerpro) |
-| **FreeBook – Handwriting** | [![FreeBook reel](https://i.ytimg.com/vi/ALn3AH5vp7o/hqdefault.jpg)](https://youtube.com/shorts/ALn3AH5vp7o) | [Google Play](https://play.google.com/store/apps/details?id=com.nk.freebook) |
-| **Love Lock** | [![Love Lock reel](https://i.ytimg.com/vi/3Sncgn5_tac/hqdefault.jpg)](https://youtube.com/shorts/3Sncgn5_tac) | [Google Play](https://play.google.com/store/apps/details?id=com.nk.lovelock) |
-| **TurboTorrent** | [![TurboTorrent reel](https://i.ytimg.com/vi/_Ii6gvir1tE/hqdefault.jpg)](https://youtube.com/shorts/_Ii6gvir1tE) | [Google Play](https://play.google.com/store/apps/details?id=com.turbotorrent.app) |
-
-**TasKaro:** Tasks, reminders, expenses and salary tracking. [Install on Google Play](https://play.google.com/store/apps/details?id=com.nk.taskaro).
-
-[Explore all my apps](https://narasim.web.app/).
-
----
-
-
 <div align="center">
 
 <a href="https://narasim.web.app/"><img src="https://narasim.web.app/assets/banner.png" alt="Narasim — Android Developer" width="100%"></a>
@@ -26,7 +8,7 @@ NK Player - HD Video Player is now available on Google Play. Watch the app reels
 
 I’m Narasim, an independent Android developer. I’ve built **20 Android apps** with **Kotlin** and **Jetpack Compose** — from productivity and media tools to apps for everyday moments.
 
-[Explore my website](https://narasim.web.app/) · [Google Play](https://play.google.com/store/apps/dev?id=8134999316222738333) · [Watch app demos](https://www.youtube.com/@narasim_developer)
+[Explore my website](https://narasim.web.app/) · [Google Play](https://play.google.com/store/apps/dev?id=8134999316222738333)
 
 </div>
 
@@ -34,7 +16,7 @@ I’m Narasim, an independent Android developer. I’ve built **20 Android apps*
 
 **20 apps: 14 published · 5 in closed testing · 1 in development.**
 
-Browse the [complete portfolio](https://narasim.web.app/#apps) for icons, demos and updates.
+Browse the [complete portfolio](https://narasim.web.app/#apps) for app icons and updates.
 
 ### Available on Google Play
 
@@ -72,7 +54,7 @@ These apps are not yet available for general public download. Closed testing req
 
 - **Kotlin & Jetpack Compose** for Android development.
 - **Everyday usefulness** through focused features and clear interfaces.
-- **Demos & updates** that show how my apps work and what I’m building next.
+- **App updates** that share improvements and what I’m building next.
 
 ## Connect
 
@@ -82,5 +64,5 @@ For app feedback and support: **[narasim.ch@gmail.com](mailto:narasim.ch@gmail.c
 
 ---
 
-**Designed and developed by Narasim.** Explore the apps, watch a demo, and follow what I build next.
+**Designed and developed by Narasim.** Explore the apps and follow what I build next.
 
