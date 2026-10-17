@@ -24,32 +24,49 @@ NK Player - HD Video Player is now available on Google Play. Watch the app reels
 
 **Small ideas. Useful apps. Built for you.**
 
-I’m Narasim, an independent Android developer. I’ve built **14 Android apps** with **Kotlin** and **Jetpack Compose** — from productivity and media tools to apps for everyday moments.
+I’m Narasim, an independent Android developer. I’ve built **20 Android apps** with **Kotlin** and **Jetpack Compose** — from productivity and media tools to apps for everyday moments.
 
 [Explore my website](https://narasim.web.app/) · [Google Play](https://play.google.com/store/apps/dev?id=8134999316222738333) · [Watch app demos](https://www.youtube.com/@narasim_developer)
 
 </div>
 
-## 14 Android projects I’ve built
+## Android app collection
 
-These are apps I designed and developed. Explore each project’s features, original app icon and Google Play link below, or browse the complete portfolio on [narasim.web.app](https://narasim.web.app/#apps). Downloads become available when an app is released.
+**20 apps: 14 published · 5 in closed testing · 1 in development.**
 
-| App | What it does | Google Play |
+Browse the [complete portfolio](https://narasim.web.app/#apps) for icons, demos and updates.
+
+### Available on Google Play
+
+| App | What it does | Download |
 |:---|:---|:---|
-| <img src="https://narasim.web.app/assets/taskaro.webp" width="40" alt=""> **TasKaro** | Tasks, reminders, expenses and salary tracking with TasKaro & BudPlan. | [View app](https://play.google.com/store/apps/details?id=com.nk.taskaro) |
-| <img src="https://narasim.web.app/assets/auto-clicker-pro.png" width="40" alt=""> **Auto Clicker Pro** | Configurable taps and gestures with floating controls. | [View app](https://play.google.com/store/apps/details?id=com.nk.autoclickerpro) |
-| <img src="https://narasim.web.app/assets/decision-maker.png" width="40" alt=""> **Decision Maker** | Wheel spinner, name picker, dice, coin toss and more. | [View app](https://play.google.com/store/apps/details?id=com.nk.decisionmaker) |
-| <img src="https://narasim.web.app/assets/free-video-compressor.png" width="40" alt=""> **Free Video Compressor** | Video compression, batch processing and conversion tools. | [View app](https://play.google.com/store/apps/details?id=com.nk.freevideocompressor) |
-| <img src="https://narasim.web.app/assets/freebook.png" width="40" alt=""> **FreeBook – Handwriting** | Handwriting books and PDF exports. | [View app](https://play.google.com/store/apps/details?id=com.nk.freebook) |
-| <img src="https://narasim.web.app/assets/love-lock-pro.webp" width="40" alt=""> **Love Lock Pro: Love Countdown** | Live countdowns, private memories and couple moments. | [View app](https://play.google.com/store/apps/details?id=com.nk.lovelockpro) |
-| <img src="https://narasim.web.app/assets/love-lock.webp" width="40" alt=""> **Love Lock: Love Countdown** | Love days, anniversaries, milestones and memories. | [View app](https://play.google.com/store/apps/details?id=com.nk.lovelock) |
-| <img src="https://narasim.web.app/assets/lucky-dangle.png" width="40" alt=""> **Lucky Dangle** | An interactive floating dangle for your screen. | [View app](https://play.google.com/store/apps/details?id=com.nk.luckydangle) |
-| <img src="https://narasim.web.app/assets/notitrack.png" width="40" alt=""> **NotiTrack – History** | Searchable notification history, app filters and cleanup controls. | [View app](https://play.google.com/store/apps/details?id=com.nk.notitracker) |
-| <img src="https://narasim.web.app/assets/shake-to-switch.png" width="40" alt=""> **Shake To Switch** | Configured shake actions, including moving to the next reel or short. | [View app](https://play.google.com/store/apps/details?id=com.nk.shaketoswitch) |
-| <img src="https://narasim.web.app/assets/snapbook.png" width="40" alt=""> **SnapBook – Photo Book Maker** | Photo and scanned-page books, PDFs, notes and reading tools. | [View app](https://play.google.com/store/apps/details?id=com.nk.makeyourbook) |
-| <img src="https://narasim.web.app/assets/turbotorrent.png" width="40" alt=""> **TurboTorrent – Torrent Client** | Torrent downloads from magnet links or torrent files. | [View app](https://play.google.com/store/apps/details?id=com.turbotorrent.app) |
-| <img src="https://narasim.web.app/assets/video-player-pro-current.png" width="40" alt=""> **NK Player - HD Video Player** | Video playback with subtitle options and background controls. | [View app](https://play.google.com/store/apps/details?id=com.nk.videoplayerpro) |
-| <img src="https://narasim.web.app/assets/volume-button-music-control.png" width="40" alt=""> **Volume Button Music Control** | Next, previous and play/pause music controls using volume buttons. | [View app](https://play.google.com/store/apps/details?id=com.nk.volumebuttonmusiccontrol) |
+| **SnapBook – Photo Book Maker** | Turn photos and scanned pages into books and PDFs, with notes and reading tools. | [Google Play](https://play.google.com/store/apps/details?id=com.nk.makeyourbook) |
+| **NotiTrack – History** | Save and search notification history, with app filters and cleanup controls. | [Google Play](https://play.google.com/store/apps/details?id=com.nk.notitracker) |
+| **Task & Expense Tracker** | Tasks, reminders, expenses and salary tracking together with TasKaro & BudPlan. | [Google Play](https://play.google.com/store/apps/details?id=com.nk.taskaro) |
+| **FreeBook – Handwriting** | Create handwriting books and export your work as a PDF. | [Google Play](https://play.google.com/store/apps/details?id=com.nk.freebook) |
+| **Free Video Compressor** | Reduce video file sizes with compression settings, batch processing and conversion tools. | [Google Play](https://play.google.com/store/apps/details?id=com.nk.freevideocompressor) |
+| **NK Player – HD Video Player** | Play your videos with subtitle options and background playback controls. | [Google Play](https://play.google.com/store/apps/details?id=com.nk.videoplayerpro) |
+| **TurboTorrent – Torrent Client** | Manage torrent downloads and add torrents from magnet links or files. | [Google Play](https://play.google.com/store/apps/details?id=com.turbotorrent.app) |
+| **Decision Maker: Spin & Pick** | Make a choice with a wheel spinner, name picker, dice, coin toss and more. | [Google Play](https://play.google.com/store/apps/details?id=com.nk.decisionmaker) |
+| **Love Lock: Love Countdown** | Track love days, anniversaries, milestones and memories throughout your relationship journey. | [Google Play](https://play.google.com/store/apps/details?id=com.nk.lovelock) |
+| **Love Lock Pro: Love Countdown** | Follow your love journey with live countdowns, private memories and couple moments. | [Google Play](https://play.google.com/store/apps/details?id=com.nk.lovelockpro) |
+| **Lucky Dangle** | Personalise your screen with an interactive floating dangle and easy show or hide controls. | [Google Play](https://play.google.com/store/apps/details?id=com.nk.luckydangle) |
+| **Auto Clicker: Tap & Swipe** | Configure taps and gestures, then start them with easy floating controls. | [Google Play](https://play.google.com/store/apps/details?id=com.nk.autoclickerpro) |
+| **Shake To Switch** | Trigger configured actions with a shake, including moving to the next reel or short. | [Google Play](https://play.google.com/store/apps/details?id=com.nk.shaketoswitch) |
+| **Volume Button Music Control** | Use physical volume buttons for next, previous, and play/pause music controls. | [Google Play](https://play.google.com/store/apps/details?id=com.nk.volumebuttonmusiccontrol) |
+
+### In testing and development
+
+These apps are not yet available for general public download. Closed testing requires access to the test track.
+
+| App | Status |
+|:---|:---|
+| Smart Automate – Auto Tasks | Closed testing |
+| App Cloner: CloneSpace | Closed testing |
+| Rummy Mates - Multiplayer | Closed testing |
+| Bulk Alarm: Multiple Alarms | Closed testing |
+| Mouse IQ – Wireless Touchpad | Closed testing |
+| Arrow Path | In development |
 
 ## How I build
 
@@ -66,3 +83,4 @@ For app feedback and support: **[narasim.ch@gmail.com](mailto:narasim.ch@gmail.c
 ---
 
 **Designed and developed by Narasim.** Explore the apps, watch a demo, and follow what I build next.
+
