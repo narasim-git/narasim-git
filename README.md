@@ -32,16 +32,16 @@ I build Android applications with **Kotlin** and **Jetpack Compose**, focusing o
 
 ### In testing and development
 
-These projects are not yet available for general public download. Closed testing requires access to the applicable test track.
+Play Store links are included for every app. These six listings may be unavailable to the public until release; closed testing requires access to the applicable test track.
 
-| Application | Release status |
-|:---|:---|
-| Smart Automate – Auto Tasks | Closed testing |
-| App Cloner: CloneSpace | Closed testing |
-| Rummy Mates - Multiplayer | Closed testing |
-| Bulk Alarm: Multiple Alarms | Closed testing |
-| Mouse IQ – Wireless Touchpad | Closed testing |
-| Arrow Path | In development |
+| Application | Release status | Play Store |
+|:---|:---|:---|
+| Smart Automate – Auto Tasks | Closed testing | [Google Play](https://play.google.com/store/apps/details?id=com.nk.smartautomate_macro) |
+| App Cloner: CloneSpace | Closed testing | [Google Play](https://play.google.com/store/apps/details?id=com.clonespace.app) |
+| Rummy Mates - Multiplayer | Closed testing | [Google Play](https://play.google.com/store/apps/details?id=com.nk.rummymates) |
+| Bulk Alarm: Multiple Alarms | Closed testing | [Google Play](https://play.google.com/store/apps/details?id=com.nk.bulkalarm) |
+| Mouse IQ – Wireless Touchpad | Closed testing | [Google Play](https://play.google.com/store/apps/details?id=com.nk.mouseiq) |
+| Arrow Path | In development | [Google Play](https://play.google.com/store/apps/details?id=com.nk.arrowpath) |
 
 ## Development focus
 
