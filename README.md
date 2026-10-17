@@ -1,26 +1,19 @@
-<div align="center">
+# Narasim
+### Independent Android Developer
 
-<a href="https://narasim.web.app/"><img src="https://narasim.web.app/assets/banner.png" alt="Narasim — Android Developer" width="100%"></a>
+I build Android applications with **Kotlin** and **Jetpack Compose**, focusing on practical tools, productivity, media, and everyday experiences.
 
-# Narasim | Android Developer
+[Portfolio](https://narasim.web.app/) · [Google Play](https://play.google.com/store/apps/dev?id=8134999316222738333) · [Email](mailto:narasim.ch@gmail.com)
 
-**Small ideas. Useful apps. Built for you.**
+---
 
-I’m Narasim, an independent Android developer. I’ve built **20 Android apps** with **Kotlin** and **Jetpack Compose** — from productivity and media tools to apps for everyday moments.
+## App portfolio
 
-[Explore my website](https://narasim.web.app/) · [Google Play](https://play.google.com/store/apps/dev?id=8134999316222738333)
+**20 Android projects · 14 published · 5 in closed testing · 1 in development**
 
-</div>
+### Published on Google Play
 
-## Android app collection
-
-**20 apps: 14 published · 5 in closed testing · 1 in development.**
-
-Browse the [complete portfolio](https://narasim.web.app/#apps) for app icons and updates.
-
-### Available on Google Play
-
-| App | What it does | Download |
+| Application | Overview | Download |
 |:---|:---|:---|
 | **SnapBook – Photo Book Maker** | Turn photos and scanned pages into books and PDFs, with notes and reading tools. | [Google Play](https://play.google.com/store/apps/details?id=com.nk.makeyourbook) |
 | **NotiTrack – History** | Save and search notification history, with app filters and cleanup controls. | [Google Play](https://play.google.com/store/apps/details?id=com.nk.notitracker) |
@@ -39,9 +32,9 @@ Browse the [complete portfolio](https://narasim.web.app/#apps) for app icons and
 
 ### In testing and development
 
-These apps are not yet available for general public download. Closed testing requires access to the test track.
+These projects are not yet available for general public download. Closed testing requires access to the applicable test track.
 
-| App | Status |
+| Application | Release status |
 |:---|:---|
 | Smart Automate – Auto Tasks | Closed testing |
 | App Cloner: CloneSpace | Closed testing |
@@ -50,19 +43,18 @@ These apps are not yet available for general public download. Closed testing req
 | Mouse IQ – Wireless Touchpad | Closed testing |
 | Arrow Path | In development |
 
-## How I build
+## Development focus
 
-- **Kotlin & Jetpack Compose** for Android development.
-- **Everyday usefulness** through focused features and clear interfaces.
-- **App updates** that share improvements and what I’m building next.
+- **Native Android:** Kotlin and Jetpack Compose.
+- **Product design:** Focused features, clear interfaces, and practical workflows.
+- **Ongoing development:** Maintaining published apps and preparing new releases.
 
-## Connect
+## Contact
 
-[YouTube](https://www.youtube.com/@narasim_developer) · [Instagram](https://www.instagram.com/narasim_developer/) · [Threads](https://www.threads.com/@narasim_developer) · [Facebook](https://www.facebook.com/profile.php?id=61594609515364)
+For app support, feedback, or development enquiries: **[narasim.ch@gmail.com](mailto:narasim.ch@gmail.com)**
 
-For app feedback and support: **[narasim.ch@gmail.com](mailto:narasim.ch@gmail.com)**
+[Website](https://narasim.web.app/) · [Instagram](https://www.instagram.com/narasim_developer/) · [Threads](https://www.threads.com/@narasim_developer) · [Facebook](https://www.facebook.com/profile.php?id=61594609515364)
 
 ---
 
-**Designed and developed by Narasim.** Explore the apps and follow what I build next.
-
+App availability reflects the latest verified release status. Visit Google Play for current availability in your region.
